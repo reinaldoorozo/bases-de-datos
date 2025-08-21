@@ -1,0 +1,1 @@
+Este archivo puede contener un diagrama en formato .png, .jpg o .drawio.
